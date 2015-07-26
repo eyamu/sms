@@ -1,0 +1,86 @@
+body{
+  font-family: Arvo Bold,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  color:#999;
+}
+@font-face{
+  font-family: Arvo Bold;
+  src:local('../Arvo/Arvo-Bold'),url('../Arvo/Arvo-Bold.ttf') format('truetype');
+}
+@font-face{
+  font-family: Arvo Bold;
+  src:local('../Arvo/Arvo-Bold'),url('../Arvo/Arvo-Bold.ttf') format('truetype');
+}
+#header{
+
+}
+#header ul li  a{  
+    font-family:"Roboto Slab",Leelawadee,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+
+}
+#header ul li a:hover,
+#header ul li a.active{
+font-family:"Roboto Slab",Leelawadee,"Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+color:#000;
+}
+.div_show{
+  -webkit-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75)  
+}
+.shadow{
+      color:#3636CF;
+      text-shadow:4px 3px #000000;
+    }
+.header_heading{
+  font-size: 40px;  
+    font-family:"Playfair Display";
+    font-weight:200;
+}
+.heading{
+  font-family:"Roboto Slab";  
+  color:#2D2D2D;
+  font-size: 20px;
+}
+.headings{
+  font-family:"Roboto Slab";  
+  color:#2D2D2D;
+  font-size: 18px;
+}
+.paragraphs{  
+  color:#666;
+  font-size: 13px;
+  text-align:justify;
+  font-family:Arvo Bold;
+}
+.div_show{
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75)  
+}
+.li_show{  
+  -moz-box-shadow: inset -1px -1px 3px 0px rgba(50, 50, 50, 0.75);
+  -webkit-box-shadow:inset -1px -1px 3px 0px rgba(50, 50, 50, 0.75);
+  box-shadow:inset -1px -1px 3px 0px rgba(50, 50, 50, 0.75);
+}
+.div_shadow{
+   -moz-box-shadow:  0px 0px  2px 2px  #FFF;
+  -webkit-box-shadow:  0px 0px  2px 2px  #FFF;
+  box-shadow:  0px 0px  2px 2px  #FFF; 
+}
+.footer_paragraphs{  
+  color:#000;
+  text-align:justify;
+  font-family:Arvo Bold;
+
+}
+.report-content{
+   color:#2D2D2D;
+  font-size: 15px;
+  font-family:Arvo Bold;
+
+}
+.body-content{
+  color:#2D2D2D;
+  font-size: 15px;
+  font-family:Arvo Bold;
+}
